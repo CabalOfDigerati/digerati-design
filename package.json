@@ -55,7 +55,9 @@
     "@barba/core": "^2.9.7",
     "@finsweet/ts-utils": "^0.39.2",
     "gasp": "^0.0.2",
-    "gsap": "^3.12.1"
+    "gsap": "^3.12.1",
+    "three.js": "^0.77.1",
+    "typed.js": "^2.0.16"
   },
   "engines": {
     "pnpm": ">=8"
